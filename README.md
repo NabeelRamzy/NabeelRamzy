@@ -1,6 +1,6 @@
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=FF58C4&center=true&width=1000&lines=Hello,+This+is++Muhammad+Nabeel+Ramzy...;But,+You+can+also+call+me+a++Java+Lover...;Thank+You+so+much+for+visiting+My+Profile...)](https://mdyeamin.netlify.app/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=40e0d0&center=true&width=1000&lines=Hello,+This+is++Muhammad+Nabeel+Ramzy...;But,+You+can+also+call+me+a++Java+Lover...;Thank+You+so+much+for+visiting+My+Profile...)](https://mdyeamin.netlify.app/)
 
 <!-- WE WILL chnage https://mdyeamin.netlify.app/ when we create profile -->
  <h3 align="center">You can Hire me As</h3> 
@@ -194,6 +194,6 @@ In Future, Either I wanna be a Full Stack Developer or a Hadoop Developer. I am 
 </p>
 
 <p align="center">
-  <img width="420px" src="https://github-readme-stats.vercel.app/api?username=alnumanqa&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
-  <img width="420px" src="https://github-readme-streak-stats.herokuapp.com?user=alnumanqa&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
+  <img width="420px" src="https://github-readme-stats.vercel.app/api?username=NabeelRamzy&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
+  <img width="420px" src="https://github-readme-streak-stats.herokuapp.com?user=NabeelRamzy&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
 </p>

@@ -1,6 +1,6 @@
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=8B4000&center=true&width=1000&lines=Hello,+This+is++Muhammad+Nabeel+Ramzy...;But,+You+can+also+call+me+a++Java+Lover...;Thank+You+so+much+for+visiting+My+Profile...)](https://mdyeamin.netlify.app/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=FFD700&center=true&width=1000&lines=Hello,+This+is++Muhammad+Nabeel+Ramzy...;But,+You+can+also+call+me+a++Java+Lover...;Thank+You+so+much+for+visiting+My+Profile...)](https://mdyeamin.netlify.app/)
 
 <!-- WE WILL chnage https://mdyeamin.netlify.app/ when we create profile -->
  <h3 align="center">You can Hire me As</h3> 
